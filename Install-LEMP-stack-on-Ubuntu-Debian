@@ -1,0 +1,3 @@
+
+
+	sudo apt install php php-fpm php-mysql php-common php-cli php-common php-opcache php-readline php-mbstring php-xml php-gd php-curl
